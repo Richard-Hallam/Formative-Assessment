@@ -3,12 +3,10 @@
 ## Overview
 
 ### Purpose
-The purpose of this project is to communicate the importance of mental health and raise awareness of it.  
-**Guidance:** Begin filling out this section during Phase 1: Ideation & Initial Setup. Clearly articulate the main goal of your project, what it aims to achieve, and how it will provide value to your target audience.
+The purpose of this project is to communicate the importance of mental health and raise awareness of it. This will be achieved by clearly displaying information on the subject and by linking to more in depth resources in an easy to use way.
 
 ### Target Audience
-Identify the target audience for your website and explain why this audience will benefit from the project.  
-**Guidance:** Use this section to identify who will benefit from your project and why. This should be informed by your user stories and overall project objectives.
+The target audience is anyone with an interest in learning about mental health.
 
 ## User Stories
 
@@ -37,7 +35,6 @@ Identify the target audience for your website and explain why this audience will
 --  **Acceptance Criteria:** Pictures will be optimised for the web and efforts made to ensure fast loading of the webpage
 
 
-
 ## Design Decisions
 
 ### Colour Palette
@@ -54,6 +51,11 @@ This is the layout for mobile. In this version the menu is hidden and makes use 
 **About Desktop layout**
 ![Desktop wireframe Image](Wireframes/DesktopWireframeAbout.png)
 This is the layout for desktop. Making use of the extra space to hide the burger button and instead showing the menu at all times. The menu will always be visible. The content is laid out in containers with the text containers being twice as large as the images and the images with padding taking up a third of the page.
+
+### Typography
+**Font**
+https://fonts.google.com/share?selection.family=Lexend+Deca:wght@100..900
+This font was chosen for both the main body text because it looks neat and is was designed for people with dyslexia and other reading problems in mind. This has the added benefit of increasing accessability. 
 
 ### Accessibility Considerations
 Discuss how accessibility guidelines were adhered to, including colour contrast and alt text for images.  
