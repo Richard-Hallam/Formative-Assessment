@@ -40,10 +40,20 @@
 
 ## ==Design Decisions==
 
+### ==Colour Palette==
+![Image of the colour palette chosen for this project](Wireframes/Colour palette.png)
+These colours were chosen to provide a calming theme for the project while maintaining stylistic consistency.
+
 ### ==Wireframes==
 ==Include wireframes for key sections of your website.==  
 ==Briefly describe the design choices, including layout, colour schemes, and fonts.==  
 ==**Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.==
+==**Homepage mobile layout**==
+![Mobile Wireframe image](Wireframes/mobileWireframe.png)
+==This is the layout for mobile. In this version the menu is hidden and makes use of a burger button for a clean look.
+==**About Desktop layout**==
+![Desktop wireframe Image](Wireframes/DesktopWireframeAbout.png)
+==This is the layout for desktop. Making use of the extra space to hide the burger button and instead showing the menu at all times. The menu will always be visible. The content is laid out in containers with the text containers being twice as large as the images and the images with padding taking up a third of the page.
 
 ### ==Accessibility Considerations==
 ==Discuss how accessibility guidelines were adhered to, including colour contrast and alt text for images.==  
