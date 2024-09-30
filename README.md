@@ -41,7 +41,7 @@
 ## ==Design Decisions==
 
 ### ==Colour Palette==
-![Image of the colour palette chosen for this project](Wireframes/Colour palette.png)
+![Image of the colour palette chosen for this project](Wireframes/ColourPalette.png)
 These colours were chosen to provide a calming theme for the project while maintaining stylistic consistency.
 
 ### ==Wireframes==
