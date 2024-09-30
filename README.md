@@ -14,27 +14,27 @@ Identify the target audience for your website and explain why this audience will
 
 ### Must-Have User Stories
 - **As a user I want to be able to navigate the website easily:**   
-  **Acceptance Criteria:** The website has a clear navigation menu allowing all pages to be accessed easily
-  **As a user I want to be able to follow links to other pages**
-  **Acceptance Criteria:** All pages will be linked to each other with links that are clear to the user.
-  **As a user I want to be able to interact with the website without any issues.**
-  **Acceptance Criteria:** There will be no errors, missing content or broken links.
-  **As a visually impaired user I want the website to work well with my screen reader.**
-  **Acceptance Criteria:** The website will contain accessabilty tags throughout enabling screen readers to work well with it.
+--  **Acceptance Criteria:** The website has a clear navigation menu allowing all pages to be accessed easily
+-  **As a user I want to be able to follow links to other pages**
+--  **Acceptance Criteria:** All pages will be linked to each other with links that are clear to the user.
+-  **As a user I want to be able to interact with the website without any issues.**
+--  **Acceptance Criteria:** There will be no errors, missing content or broken links.
+-  **As a visually impaired user I want the website to work well with my screen reader.**
+--  **Acceptance Criteria:** The website will contain accessabilty tags throughout enabling screen readers to work well with it.
 
 
 ### Should-Have User Stories
 - **As a user I want the site to work on both mobile, desktop and tablet:**  
-  **Acceptance Criteria:** The site will be responsive to changes in screen size and adapt to smaller phones screens as well as larger desktop monitors. All content should still display correctly regardless of device used.
+--  **Acceptance Criteria:** The site will be responsive to changes in screen size and adapt to smaller phones screens as well as larger desktop monitors. All content should still display correctly regardless of device used.
 - **As a user I want to have the content in an easy to read format:**   
-  **Acceptance Criteria:** The content will be in an easy to read font and displayed at an apropriate size for the screen it is viewed on. All links and other interactive elements are identified to the screen reader
+--  **Acceptance Criteria:** The content will be in an easy to read font and displayed at an apropriate size for the screen it is viewed on. All links and other interactive elements are identified to the screen reader
 
 
 ### Could-Have User Stories
 - **As a user when I mouse over an element it reacts to being hovered over.:**   
-  **Acceptance Criteria:** Elements where it is sensible to do so react to being hovered over with the mouse
+--  **Acceptance Criteria:** Elements where it is sensible to do so react to being hovered over with the mouse
 - **As a site user I can load the page quickly:**   
-  **Acceptance Criteria:** Pictures will be optimised for the web and efforts made to ensure fast loading of the webpage
+--  **Acceptance Criteria:** Pictures will be optimised for the web and efforts made to ensure fast loading of the webpage
 
 
 
