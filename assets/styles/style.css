@@ -8,6 +8,12 @@
 
 .card{
     background-color: #cbf7ed;
+    padding:10px;
+}
+
+.card-image{
+    height: 30vh;
+    width:30vh
 }
 
 .navbar{
