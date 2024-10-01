@@ -117,9 +117,7 @@ Brief reflection on the effectiveness of using AI tools for debugging and valida
 ## Deployment
 
 ### Deployment Process
-Briefly describe the deployment process to GitHub Pages or another cloud platform.  
-Mention any specific challenges encountered during deployment.  
-**Guidance:** Describe the steps you took to deploy your website during Phase 4: Final Testing, Debugging & Deployment, including any challenges encountered.
+This site was deployed using github pages by navigating to settings> pages then choosing to deploy from a branch and setting that branch to be main. 
 
 ## AI Tools Usage
 
