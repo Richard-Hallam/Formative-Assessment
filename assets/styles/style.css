@@ -10,11 +10,15 @@
 }
 
 .navbar{
-    background-color:#406e8a;
+    background-color:#406e8e;
     color:#161925;
     position:fixed;
     right:1px;
     order: -1;
+}
+
+.nav-item{
+    background-color: #406e8e;
 }
 
 .title{
