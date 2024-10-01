@@ -1,1 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+
+*{
+    background-color: #cbf7ed;;
+}
+.navbar{
+    background-color:#406e8a;
+    color:#161925;
+    position:fixed;
+    top:0;
+    right:0;
+    order: -1;
+}
+
+.title{
+    order:1;
+
+}
