@@ -17,9 +17,9 @@
 
 .card-image{
     display: block;
-    margin: 0 auto;
-    height: 30vh;
-    width:30vh;
+    align-self:center;
+    height: auto;
+    width:28vw;
     box-shadow:none;
 }
 
@@ -32,6 +32,8 @@
     padding-left: 5vw;
     padding-right: 5vw;
     width: 100vw;
+    align-self: center;
+    align-items: center;
     z-index: 1;
 }
 
