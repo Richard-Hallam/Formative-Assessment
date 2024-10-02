@@ -48,7 +48,7 @@
 }
 
 .navbar .nav-link{
-    font-size: 1.25rem;
+    font-size: 1rem;
 }
 
 .navbar-toggler{
@@ -67,7 +67,7 @@
 
 .title-bar{
     width:100%;
-    padding:20px;
+    padding:5px;
     min-height:10vh;
     background-color: #406e8e;
     background-size: auto;
@@ -95,11 +95,14 @@
         background-color:#406e8e;
         color:#161925;
         position:fixed;
-        left:38vw;
-        top:22vh;
+        left:0px;
+        top:30vh;
         z-index: 10;
-        width:250px;
-        
+        width:100%;
+    }
+
+    .jumbotron{
+        margin-top: 220px;
     }
 
     .navbar-toggler-icon{
