@@ -84,7 +84,7 @@ Attributes for screen readers were included throughout the project. Font choice 
 ## Testing and Validation
 
 ### Testing Results
-Testing layout on various screen sizes was done using chrome dev tools. Testing of loading speed was done on a slow 3g network using my mobile phone in a chromium based mobile browser.
+Testing layout on various screen sizes was done using chrome dev tools. Testing of loading speed was done on a slow 3g network using my mobile phone in a chromium based mobile browser. During the loading speed testing I discovered the design did not display well on my phone due to its narrower aspect ration than the devices I was using for testing in chrome dev tools.
 
 ### Validation
 **CSS validation**
