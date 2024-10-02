@@ -3,12 +3,15 @@
 *{
     background-color: #cbf7ed;;
     color:#161925;
-    font-family: "Deca" sans-serif;
+    font-family: "Lexend Deca" sans-serif;
 }
 
 .card{
     background-color: #cbf7ed;
     padding:10px;
+    border:none;
+    margin:20px;
+    z-index:2;
 }
 
 .card-image{
@@ -16,12 +19,26 @@
     width:30vh
 }
 
+.image-card{
+    margin: 0 auto;
+    width:100%;
+    height: auto;
+}
+
+.container-fluid{
+    padding-left: 5vw;
+    padding-right: 5vw;
+    width: 100vw;
+    z-index: 1;
+}
+
 .navbar{
     background-color:#406e8e;
     color:#161925;
     position:fixed;
     right:1px;
-    order: -1;
+    z-index: 10;
+    
 }
 
 .nav-item{
@@ -39,6 +56,11 @@
     min-height:10vh;
     background-color: #406e8e;
     background-size: auto;
+    position:fixed;
+    z-index: 9;
+    top:0px;
+    left:0px;
+    right:0px;
 }
 
 .jumbotron{
@@ -47,4 +69,8 @@
 
 .link-logo-image{
     width:10vw;
+}
+
+.jumbotron{
+    margin-top: 100px;
 }
