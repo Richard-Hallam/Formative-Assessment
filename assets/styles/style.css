@@ -20,6 +20,7 @@
     align-self:center;
     height: auto;
     width:28vw;
+    min-width: 250px;
     box-shadow:none;
 }
 
@@ -84,11 +85,13 @@
 
 .link-logo-image{
     width:10vw;
+    min-width: 75px;
 }
 
 .jumbotron{
     margin-top: 60px;
 }
+
 
 @media (max-width: 500px){
     .navbar{
@@ -96,7 +99,7 @@
         color:#161925;
         position:fixed;
         left:0px;
-        top:30vh;
+        top:200px;
         z-index: 10;
         width:100%;
     }
@@ -111,5 +114,17 @@
     
     .title-bar{
         height: 32vh;
+    }
+}
+
+@media (max-width:950){
+    .navbar{
+        background-color:#406e8e;
+        color:#161925;
+        position:fixed;
+        left:0px;
+        top:200px;
+        z-index: 10;
+        width:100%;
     }
 }
