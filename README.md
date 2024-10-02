@@ -102,19 +102,16 @@ HTML was validated using the w3c validation service. The first run identified on
 This site was deployed using github pages by navigating to settings> pages then choosing to deploy from a branch and setting that branch to be main. 
 
 ## Reflection on Development Process
-
+The project deployment was the simplest part of the project.
 
 ### Challenges
-Describe any challenges faced when integrating AI-generated content and how they were addressed.
+The main challenges I faced were laying content out using bootstrap, making the navbar and ensuring backgrounds adapted well to other screen sizes.
 
 ### Final Thoughts
-Provide any additional insights gained during the project and thoughts on the overall process.  
-**Guidance:** Begin drafting reflections during Phase 1 and update throughout the project. Finalize this section after Phase 4. Highlight successes and challenges, particularly regarding the use of AI tools, and provide overall insights into the project.
+This project really helped me get my head around using bootstrap and was excellent practice for writing media queries,
 
 ## Code Attribution
-Properly attribute any external code sources used in the project (excluding GitHub Copilot-generated code).  
-**Guidance:** Document any external code sources used throughout the entire project, especially during Phase 2 and Phase 3. Exclude GitHub Copilot-generated code from attribution.
+Bootstrap documentation: https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 ## Future Improvements
-Briefly discuss potential future improvements or features that could be added to the project.  
-**Guidance:** Reflect on potential enhancements that could be made to the project after Phase 4: Final Testing, Debugging & Deployment. These could be Could user story features you didn’t have time to implement or improvements based on testing feedback.
+The main improvement would be further refinement of the responsive design. I consider this an mvp. There are still tweaks to be made especially around devices with narrower aspect ratios such as 21:9 smartphones. Also I am not happy with some of the images being slightly off center on smaller displays so that would need extra time to solve.
