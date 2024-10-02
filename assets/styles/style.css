@@ -37,8 +37,14 @@
     color:#161925;
     position:fixed;
     right:1px;
+    top:0px;
     z-index: 10;
-    
+    width:250px;
+}
+
+.navbar-toggler{
+    top:0;
+    right:0;
 }
 
 .nav-item{
@@ -73,4 +79,24 @@
 
 .jumbotron{
     margin-top: 100px;
+}
+
+@media (max-width: 500px){
+    .navbar{
+        background-color:#406e8e;
+        color:#161925;
+        position:fixed;
+        left:38vw;
+        top:22vh;
+        z-index: 10;
+        width:250px;
+    }
+
+    .navbar-toggler-icon{
+        align-self: flex-end;
+    }
+    
+    .title-bar{
+        height: 32vh;
+    }
 }
