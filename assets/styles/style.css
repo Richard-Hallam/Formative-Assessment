@@ -8,17 +8,19 @@
 
 .card{
     background-color: #cbf7ed;
-    padding:10px;
+    padding:30px;
     border:none;
     margin:20px;
     z-index:2;
+    box-shadow: 0 4px 10px #23395b;
 }
 
 .card-image{
     display: block;
     margin: 0 auto;
     height: 30vh;
-    width:30vh
+    width:30vh;
+    box-shadow:none;
 }
 
 .image-card{
